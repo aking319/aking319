@@ -9,6 +9,11 @@ I am 13 years old and I have been coding for about 3 years now, so I know a lot 
 My life goal is to make coding fun and easy for everyone.
 I have been coding since the age of 8. I have been teaching myself how to code since then, and I can say that it has helped me in many ways.
 I can code in different languages such as PHP, MYSQL, HTML, and CSS.
+  
+!['idk'](https://img.shields.io/badge/Youtube-@aking101-CC0000?style=for-the-badge&logo=Youtube)
+!['idk'](https://img.shields.io/badge/Codepen-@aking101-000000?style=for-the-badge&logo=Codepen)
+!['idk'](https://img.shields.io/badge/Spotify-@xero-1db954?style=for-the-badge&logo=Spotify)
+!['idk'](https://img.shields.io/badge/REPLIT-@djuank-f26207?style=for-the-badge&logo=Replit)
 
   # What I Use 
 
@@ -20,3 +25,4 @@ I can code in different languages such as PHP, MYSQL, HTML, and CSS.
   # Stats
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aking319)](https://github.com/anuraghazra/github-readme-stats)
+
