@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @ChuuYarx
-- 👀 I’m interested in Discord Bots!
-- 🌱 I’m currently working on a discord bot!
-- 💞️ I’m looking to collaborate on Nothing For Right Now
-- 📫 How to reach me adenk3154@gmail.com
-
-![Code Info](https://user-images.githubusercontent.com/85898231/130091745-f18247d4-5322-4f48-b9bc-956364198a3f.png)
-
-<!---
-ChuuYarx/ChuuYarx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![namelogo](https://media.discordapp.net/attachments/1043921535154524270/1054814667379322960/ak.png?width=1025&height=224)
+<p align="center">
+  <img src="https://media.discordapp.net/attachments/1043921535154524270/1054814667026997288/output-onlinegiftools_2.gif"
+       </p>
+  
+  ---
+  
+I am 13 years old and I have been coding for about 3 years now, so I know a lot of things that many kids my age don't know. But what I really want to do is use my skills to help other kids learn how to code too!
+My life goal is to make coding fun and easy for everyone.
+I have been coding since the age of 8. I have been teaching myself how to code since then, and I can say that it has helped me in many ways.
+I can code in different languages such as PHP, MYSQL, HTML, and CSS.
