@@ -5,6 +5,8 @@
   
   ---
   
+ `(Desginer\Software Development\Composer)`
+  
 I am 13 years old and I have been coding for about 5 years now, so I know a lot of things that many kids my age don't know. But what I really want to do is use my skills to help other kids learn how to code too!
 My life goal is to make coding fun and easy for everyone.
 I have been coding since the age of 8. I have been teaching myself how to code since then, and I can say that it has helped me in many ways.
