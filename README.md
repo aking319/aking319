@@ -21,8 +21,4 @@ I can code in different languages such as PHP, MYSQL, HTML, and CSS.
   # Languages 
 
   <img src="https://secureservercdn.net/160.153.137.184/fad.0cb.myftpupload.com/wp-content/uploads/2017/01/Web-Development-Featured-Image.png?time=1656696125" >
-  
-  # Stats
-  
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aking319)](https://github.com/anuraghazra/github-readme-stats)
 
