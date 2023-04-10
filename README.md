@@ -16,11 +16,7 @@ I can code in different languages such as PHP, MYSQL, HTML, and CSS.
 !['idk'](https://img.shields.io/badge/Codepen-@aking101-000000?style=for-the-badge&logo=Codepen)
 !['idk'](https://img.shields.io/badge/Spotify-@xero-1db954?style=for-the-badge&logo=Spotify)
 !['idk'](https://img.shields.io/badge/REPLIT-@djuank-f26207?style=for-the-badge&logo=Replit)
-
-  # What I Use 
-
-  ![image](https://user-images.githubusercontent.com/85898231/208759749-12cbff09-f7ca-4cfb-be38-a762f4392388.png)
-  # Languages 
+  # Languages I Know
 
   <img src="https://secureservercdn.net/160.153.137.184/fad.0cb.myftpupload.com/wp-content/uploads/2017/01/Web-Development-Featured-Image.png?time=1656696125" >
 
